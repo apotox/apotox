@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 my name is Safi-eddine and i am
+A senior software engineer, mainly backend using Nodejs & K8s. I am more of a ship builder than a ship maintainer.
+
+📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/safi-eddine-bouhentala/)
+
 
 <!--
 **apotox/apotox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
