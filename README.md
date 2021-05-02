@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Safi-eddine and i am
-A senior software engineer, mainly backend using Nodejs & K8s. I am more of a code builder than a code maintainer.
+A software engineer, mainly backend using Nodejs & K8s. I am more of a code builder than a code maintainer.
 
 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/safi-eddine-bouhentala/)
