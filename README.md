@@ -1,3 +1,13 @@
+```
+                      ___      ___  
+                     / _/    /\\_ \ 
+                    / /     / /  \ \
+                    \ \_   / /  _/ /
+                     \__\  \/  /__/ 
+                
+```
+
+
 ### Hi there 👋 my name is Safi-eddine and i am
 A software engineer, mainly backend using Nodejs & K8s. I am more of a code builder than a code maintainer.
 
