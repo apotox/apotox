@@ -1,14 +1,13 @@
 ```
-                      ___      ___  
-                     / _/    /\\_ \ 
-                    / /     / /  \ \
-                    \ \_   / /  _/ /
-                     \__\  \/  /__/ 
+   “ Hope lies in dreams, in imagination,
+        and in the courage of those who dare
+               to make dreams into reality.”
+                           – Jonas Salk
                 
 ```
 
 
-### Hi there 👋 my name is Safi-eddine and i am
+
 A software engineer, mainly backend using Nodejs & K8s. I am more of a code builder than a code maintainer.
 
 📫 How to reach me: 
