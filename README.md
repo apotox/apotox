@@ -1,8 +1,5 @@
 ```
-   “ Hope lies in dreams, in imagination,
-        and in the courage of those who dare
-               to make dreams into reality.”
-                           – Jonas Salk
+
                 
 ```
 
@@ -13,6 +10,7 @@ A software engineer, mainly backend using Nodejs & K8s. I am more of a code buil
 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/safi-eddine-bouhentala/)
   - [Twitter](https://twitter.com/saphidev)
+  - [Medium](https://saphidev.medium.com/)
 
 
 <!--
