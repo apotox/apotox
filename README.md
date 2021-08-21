@@ -11,6 +11,9 @@ A software engineer, mainly backend using Nodejs & K8s. I am more of a code buil
   - [LinkedIn](https://www.linkedin.com/in/safi-eddine-bouhentala/)
   - [Twitter](https://twitter.com/saphidev)
   - [Medium](https://saphidev.medium.com/)
+  - Projects 
+    - [Pharmagarde Android App](https://github.com/apotox/pharmacie-de-garde)
+    - [Pharmagarde API + Firebase](https://github.com/apotox/pharmacie-de-garde-api)
 
 
 <!--
