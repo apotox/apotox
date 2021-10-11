@@ -17,6 +17,7 @@ A software engineer, mainly backend using Nodejs & K8s. I am more of a code buil
     - [⚡ sample serverless shortlink ](https://github.com/apotox/shortlink-serverless)
     - [⚡ serverless QCM web app](https://github.com/apotox/quiz-reactjs-serverless-nodejs)
     - [💬 chat app  with redis adapter for socketio to make it scalable on Google Cloud kubernetes](https://github.com/apotox/kudis)
+    - [Eachless pkg](https://github.com/apotox/eachless)
 
 
 <!--
