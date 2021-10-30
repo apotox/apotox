@@ -11,14 +11,16 @@ A software engineer, mainly backend using Nodejs & K8s. I am more of a code buil
   - [LinkedIn](https://www.linkedin.com/in/safi-eddine-bouhentala/)
   - [Twitter](https://twitter.com/saphidev)
   - [Medium](https://saphidev.medium.com/)
-  - 🌱 Open Source Projects 
+  - 🌱 Open Source Projects:
+
+    - [🔭 browser checks as a code (prototype)](https://github.com/apotox/chycode-public)
+    - [💬 chat app  with redis adapter for socketio to make it scalable on Google Cloud kubernetes](https://github.com/apotox/kudis)
     - [Pharmagarde Android App](https://github.com/apotox/pharmacie-de-garde)
     - [Pharmagarde Dashboard and API + Firebase](https://github.com/apotox/pharmacie-de-garde-api)
     - [⚡ sample serverless shortlink ](https://github.com/apotox/shortlink-serverless)
     - [⚡ serverless QCM web app](https://github.com/apotox/quiz-reactjs-serverless-nodejs)
-    - [💬 chat app  with redis adapter for socketio to make it scalable on Google Cloud kubernetes](https://github.com/apotox/kudis)
     - [Eachless pkg](https://github.com/apotox/eachless)
-    - [🔭 browser checks as a code (prototype)](https://github.com/apotox/chycode-public)
+
 
 
 <!--
