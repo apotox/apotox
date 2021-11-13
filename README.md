@@ -18,7 +18,6 @@ A software engineer, mainly backend using Nodejs & K8s. I am more of a code buil
     - [Pharmagarde Android App](https://github.com/apotox/pharmacie-de-garde)
     - [Pharmagarde Dashboard and API + Firebase](https://github.com/apotox/pharmacie-de-garde-api)
     - [⚡ sample serverless shortlink ](https://github.com/apotox/shortlink-serverless)
-    - [⚡ serverless QCM web app](https://github.com/apotox/quiz-reactjs-serverless-nodejs)
     - [Eachless pkg](https://github.com/apotox/eachless)
 
 
