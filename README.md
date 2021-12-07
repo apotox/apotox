@@ -17,6 +17,7 @@ A software engineer, mainly backend using Nodejs & K8s. I am more of a code buil
     - [⚡ sample serverless shortlink ](https://github.com/apotox/shortlink-serverless)
     - [Eachless pkg](https://github.com/apotox/eachless)
     - [Nextjs Portfolio](https://github.com/apotox/portfolio-nextjs)
+    - [🎮 mini tetris Game](https://tetris-game-rho.vercel.app/)
 
 
 
