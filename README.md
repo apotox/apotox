@@ -17,7 +17,7 @@ A software engineer. in the Backend am using Nodejs & K8s, and für das Frontend
     - [⚡ sample serverless shortlink ](https://github.com/apotox/shortlink-serverless)
     - [Eachless pkg](https://github.com/apotox/eachless)
     - [Nextjs Portfolio](https://github.com/apotox/portfolio-nextjs)
-    - [🎮 mini tetris Game](https://tetris-game-rho.vercel.app/)
+    - [🎮 mini rock paper scissors rt game](https://rock-paper-scissors-rt.herokuapp.com/)
 
 
 
